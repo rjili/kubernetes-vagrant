@@ -135,8 +135,3 @@ vagrant up
 ```shell
 vagrant destroy -f
 ```
-
-## More Link
-[Check this link](https://devopscube.com/kubernetes-cluster-vagrant/)
-
-
